@@ -1,0 +1,73 @@
+p {
+    margin-top: 0;
+    font-size: 20px;
+    
+}
+
+img {
+    width: 40%;
+    margin: 5px;
+   
+}
+
+body {
+    margin-top: 10px;
+   margin-bottom: 10px;
+   
+}
+
+* {
+    background-color: #DDDDDD;
+    width: 250px;
+    margin: auto;
+   text-align: center;
+   font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}
+
+button {
+    margin: 5px;
+    width: 50%;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 2px solid;
+}
+
+button:active {
+    position: relative;
+    top: 1px;
+}
+
+#easy {
+    color: green;
+}
+
+#medium {
+    color: yellow;
+}
+
+#hard {
+    color: red;
+}
+
+a {
+    display: block;
+}
+
+.container {
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+#links a {
+    display: inline;
+}
+
+#links img {
+    width: 20%;
+}
+
+.two-x {
+    width: 85%;
+    
+}
